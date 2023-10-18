@@ -3,6 +3,7 @@ import pagenotfound from '../assets/images/pagenotfound.png'
 import { useTitle } from '../hooks/index'
 
 export const PageNotFound = ({title}) => {
+  //eslint-disable-next-line
   const pageTitle = useTitle(title)
 
   return (

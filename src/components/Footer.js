@@ -1,3 +1,4 @@
+//eslint-disable-next-line
 import styles from "../index.css"
 import { Link } from "react-router-dom";
 

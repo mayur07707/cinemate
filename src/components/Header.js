@@ -1,6 +1,7 @@
 import { useState ,useEffect } from "react"
 import { Link, NavLink , useNavigate } from "react-router-dom"
 import logo from '../assets/logo.png'
+//eslint-disable-next-line
 import styles from "../index.css"
 
 

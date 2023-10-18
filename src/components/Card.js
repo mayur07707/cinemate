@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom"
 import backup from "../assets/images/backup.png"
+//eslint-disable-next-line
 import styles from "../index.css"
 
 export const Card = ({movie}) => {
